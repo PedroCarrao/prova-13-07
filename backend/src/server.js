@@ -1,3 +1,5 @@
+////isso ja sei de cabeça nao preciso deixar anotação
+
 import express from 'express';
 import rotaCertaRoutes from './routes/rotaCertaRoutes.js';
 
